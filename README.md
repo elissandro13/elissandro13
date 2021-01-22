@@ -11,4 +11,4 @@ Buscando evolução, sem nunca parar.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elissandro13&show_icons=true&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elissandro13&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elissandro13&theme=vue)
