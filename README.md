@@ -7,7 +7,8 @@ Brasil, Belo Horizonte, MG
 
 Buscando evolução, sem nunca parar.
 
-[Linkedin](https://www.linkedin.com/in/elissandro-caetano-7919861a2/)
+#### [Linkedin](https://www.linkedin.com/in/elissandro-caetano)
+#### [Currículo](https://drive.google.com/file/d/1FIlsaPi6DRKzY9ue5N43DAPAHgd_eRLl/view?usp=sharing)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=elissandro13)
 
