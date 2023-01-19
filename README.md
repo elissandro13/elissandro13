@@ -14,5 +14,5 @@ Buscando evolução, sem nunca parar.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elissandro13&show_icons=true&theme=buefy)
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elissandro13&show_icons=true&locale=en&layout=compact" alt="caiogrossi" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elissandro13&show_icons=true&locale=en&layout=compact" alt="elissandro" /></p>  
   
