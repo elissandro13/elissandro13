@@ -14,4 +14,4 @@ Greetings, my name is Elissandro, I'm a 22-year-old IT enthusiast dedicated to c
 
 [Linkedin](https://www.linkedin.com/in/elissandro-caetano/) |
 [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/236199?origem=1) |
-[Try Hack Me](https://tryhackme.com/p/elissandro19)
+[TryHackMe](https://tryhackme.com/p/elissandro19)
