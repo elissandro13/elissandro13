@@ -1,6 +1,6 @@
 Hello there! I'm Eli 👋
 
-Greetings, my name is Elissandro, I'm a 22-year-old IT enthusiast dedicated to conquering myself. 
+Greetings, my name is Elissandro, I'm a 24-year-old IT enthusiast dedicated to conquering myself. 
 
 ## ☄️ About Me 
 - ⚗️ BS in Information Systems at UFMG
